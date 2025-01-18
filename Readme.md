@@ -54,6 +54,8 @@ From sudoku puzzles to tic-tac-toe, o1js is your playground for general-purpose 
 #### When to Use o1js:
 If your project's state management fits within **eight on-chain field elements**, you're in the right place. Otherwise, you might need the experimental Offchain Storage API, like needing a bigger backpack for your adventure.
 
+For more details, refer to [“How to Develop a zkApp using o1js”](https://docs.minaprotocol.com/zkapps/o1js)
+
 
 ---
 ## **Protokit - The Advanced Sorcerer’s Choice**
@@ -84,7 +86,10 @@ For those who've danced with Solidity, Protokit feels like coming home to a fami
    ```
 4. **Interact with Magic**: Open `localhost:3000`, set up your Auro wallet (the blockchain equivalent of a magic wand), and claim your tokens like a true adventurer.
 
+![mina4-modified](https://github.com/user-attachments/assets/b8ad5887-087c-4071-9016-ea1ddd5a9bcb)
 
+[Learn More](https://protokit.dev/docs/quickstart)
+---
 
 ## A Word on Security - Don't Get Your Scroll Hacked
 
@@ -94,10 +99,13 @@ In this realm, security is not just about locking your door; it's about not trus
 - Don't trick o1js; it's smarter than you think.  
 - Never trust anyone; assume they're all potential dark wizards.
 
-
-
 ## The Grand Finale
 
 And there you have it, from the depths of TypeScript to the heights of privacy-focused blockchain applications. You've now walked through the creation of a zkApp on Mina, choosing between the comforting embrace of o1js or the powerful, interoperable magic of Protokit. Whether you're here for the privacy, the performance, or just to say you've tamed a blockchain, remember: in the world of zkApps, **your data's privacy is your dragon to protect**.
 
 So go forth, coder, and may your zkApps be as secure as a Gringotts vault and as private as the Hogwarts' Marauder's Map!
+
+### Magic Spells 
+[zkApps Frameworks](https://docs.minaprotocol.com/zkapps/zkapp-development-frameworks)
+
+[Basics of zk programming](https://docs.minaprotocol.com/zkapps/o1js/basic-concepts)
